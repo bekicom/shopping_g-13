@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+a{
+    color: white;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 19px 19px;
+    background: #4C7383;
+
+}
+/* =====link==== */
+
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 137px;
+
+}
+.link a{
+   margin: 0 47px;
+}
